@@ -1,6 +1,6 @@
-# E aí, gente! Tudo bem? 😁
+E aí, gente! Tudo bem? 😁
 
-Me chamo Matheus Araújo e esse é meu repositório com as práticas durante o Next Level Week Return, promovido pela Rockeatseat.
+# Me chamo Matheus Araújo e esse é meu repositório com as práticas durante o Next Level Week Return, promovido pela Rockeatseat.
 
 Foi minha primeira experiência codando um site inteiro e do zero. Tirei muitas ideias nessa semana e com certeza irei aplicar o que foi aprendido para produzir outros projetos.
 
