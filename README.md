@@ -1,6 +1,7 @@
 ## <h1 align="center"> DoctorCare </h1>
 
-![index.png](./assets/index.png)
+![index.png](assets/Index.png)
+
 
 ## Descrição
 
