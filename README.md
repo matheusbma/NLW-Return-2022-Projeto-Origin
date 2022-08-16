@@ -15,4 +15,4 @@ O site produzido foi pensado para uma empresa médica, tendo várias seções, s
 - CSS
 - Javascript
 
-### Link para o site: [DoctorCare](https://matheusbma.github.io/matheusbma-NLW-Return-2022-Projeto-Origin/)
+### Link para o site: [DoctorCare](https://matheusbma.github.io/matheusbma-NLW-Return-2022-Projeto-Origin/){:target="_blank"}
