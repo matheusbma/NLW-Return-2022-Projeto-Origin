@@ -1,6 +1,6 @@
 ## <h1 align="center"> DoctorCare </h1>
 
-![Captura de Tela 2022-08-16 às 00.05.27.png](Untitled%20e45e55ad9e1d4020a05436f6de974ebb/Captura_de_Tela_2022-08-16_as_00.05.27.png)
+![index.png](./assets/index.png)
 
 ## Descrição
 
